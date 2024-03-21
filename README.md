@@ -16,7 +16,7 @@
 - 📄 Know about my experiences: https://drive.google.com/file/d/1XFhAKy1XvNwveh4_qe_i4PKrhKa0vgZ5/view?usp=drive_link
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="linkedin.com/in/akhilsai-relli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="AkhilsaiRelli" /></a>
+  <a href="https://www.linkedin.com/in/akhilsai-relli/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BPWqxaoGbRUW6TUebjOW6OA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="AkhilsaiRelli" /></a>
   <a href="https://www.instagram.com/mr._introvert_00?igsh=MWl0NDFsYjB1bzhxaw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white" alt="Akhilsai" /></a>
 </p>
 
